@@ -8,4 +8,4 @@ I’ve worked across financial and government enterprise systems and startup pro
 
 Recently, I modernized a legacy application from Java 8 + Spring 4 to Java 21 + Spring 6 and led a 3-person team that delivered 100% of reported requirements and bug fixes on time.
 
-Open to Java Software Engineer / Java Software Developer opportunities. Let’s connect.
+Open to Java Software Engineer / Java Software Developer opportunities.
